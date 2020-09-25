@@ -14,7 +14,7 @@ To run you will need :
 pip install poppy-ergo-jr
 ```
 
-##Usage :
+## Usage :
     1-open coppeliasim
     2- run the command
 ```bash
