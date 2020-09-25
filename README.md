@@ -13,3 +13,10 @@ To run you will need :
 ```bash
 pip install poppy-ergo-jr
 ```
+
+##Usage :
+    1-open coppeliasim
+    2- run the command
+```bash
+python3 move.py
+```
